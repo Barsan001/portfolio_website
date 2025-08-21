@@ -126,7 +126,7 @@ if (downloadCvBtn) {
     'UI Designer',
     'Frontend Developer',
     'Full Stack Developer',
-    'Data Designer',
+    'React Developer',
   ];
 
   const rotator = document.getElementById('role-rotator');
