@@ -42,7 +42,7 @@ html {
 
 /* Typography */
 h1, h3, h4, h5, h6 {
-    font-weight: 500;
+    font-weight: 549;
     font-size: clamp(1.8rem, 4vw, 2rem);
     white-space: nowrap;
 }
