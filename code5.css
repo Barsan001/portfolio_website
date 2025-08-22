@@ -879,7 +879,7 @@ footer {
 /* Typewriter rotating roles */
 .animated-subtext {
     margin-top: 0.5rem;
-    font-weight: 500;
+    font-weight: 550;
     display: flex;
     gap:.4rem;
     align-items: baseline;
