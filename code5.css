@@ -46,9 +46,8 @@ h1, h3, h4, h5, h6 {
     font-size: clamp(1.8rem, 4vw, 2rem);
     white-space: nowrap;
 }
-
 h2 {
-    font-weight: 700;
+    font-weight:800;
     font-size: clamp(2rem, 7vw, 8rem);
     white-space: nowrap;
 }
