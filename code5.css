@@ -246,8 +246,8 @@ nav {
 
 .image-container {
   position: relative;
-  width:350;
-  height:350;
+  width:300PX;
+  height:300PX;
   margin: auto;
 }
 .profile-img {
